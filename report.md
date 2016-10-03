@@ -7,6 +7,7 @@
 #### 2.1. Content Provider
 #### 2.2. Esportazione/importazione database per il backup 
 #### 2.3. Analisi dei log
+#### 2.4. Misc
 ### 3. Possibili attacchi
 ### 4. Contromisure
 #### 4.1. Content Provider
